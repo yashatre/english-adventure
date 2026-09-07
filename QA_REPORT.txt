@@ -1,0 +1,11 @@
+v2.2 QA PASS
+• 19 topics
+• 684 questions retained
+• 36 questions per topic
+• 19 Learn First cards
+• >95% mastery retained
+• Topic progress UI added
+• Home journey dashboard added
+• Tense-family map added
+• Supportive retry feedback added
+• JavaScript syntax PASS
